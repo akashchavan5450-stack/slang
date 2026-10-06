@@ -1,2 +1,3 @@
-# slang
-this is my first repo
+# Cozyy
+this is my first  Git repository 
+Author - Akzh 
